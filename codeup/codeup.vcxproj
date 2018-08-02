@@ -30,6 +30,7 @@
     <ClCompile Include="2802.cpp" />
     <ClCompile Include="3001.cpp" />
     <ClCompile Include="3003.cpp" />
+    <ClCompile Include="4067.cpp" />
     <ClCompile Include="4591.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
