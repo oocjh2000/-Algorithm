@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 	int ArraySize;
-	int Index;
+	int Idex;
 
 
 	cin >> ArraySize;
