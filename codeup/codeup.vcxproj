@@ -26,12 +26,14 @@
     <ClCompile Include="1915.cpp" />
     <ClCompile Include="2001.cpp" />
     <ClCompile Include="2651.cpp" />
+    <ClCompile Include="2744.cpp" />
     <ClCompile Include="2801.cpp" />
     <ClCompile Include="2802.cpp" />
     <ClCompile Include="3001.cpp" />
     <ClCompile Include="3003.cpp" />
     <ClCompile Include="4067.cpp" />
     <ClCompile Include="4591.cpp" />
+    <ClCompile Include="5078.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
